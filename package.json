@@ -1,0 +1,25 @@
+{
+  "name": "Practica-16-Peticiones-POST-JSON",
+  "version": "1.0.0",
+  "description": "En la práctica anterior abordamos el tema de las peticiones POST parseando datos que vienen desde un formulario. Ahora pasaremos un objeto en formato JSON en la petición, los “parsearemos” en nuestro route handler y los haremos visible en la consola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farellano0/Practica-16-Peticiones-POST-JSON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farellano0/Practica-16-Peticiones-POST-JSON/issues"
+  },
+  "homepage": "https://github.com/farellano0/Practica-16-Peticiones-POST-JSON#readme",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
